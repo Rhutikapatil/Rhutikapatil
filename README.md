@@ -1,104 +1,122 @@
-<div align="center">
+<h1 align="center">Hi, I'm Rhutika Patil 👋</h1>
 
-# Rhutika Patil
+<h3 align="center">
+Data Scientist • Bioinformatics • Analytics
+</h3>
 
-**Bioinformatics · Data Analytics · Cloud Data Engineering**
+<p align="center">
+<b>I follow data from raw → meaningful → useful.</b>
+</p>
 
-Turning genomic, clinical, and operational data into decisions people can act on.
+<p align="center">
+Turning complex biological, healthcare, and business data into
+insights, models, pipelines, and decisions.
+</p>
 
-📍 Raleigh, NC &nbsp;|&nbsp; 🎓 M.S. Bioinformatics, NC State University &nbsp;|&nbsp; 💼 Open to Data Scientist / Data Analyst / Computational Scientist roles
+<p align="center">
+🐍 Python &nbsp; • &nbsp;
+📊 SQL &nbsp; • &nbsp;
+📈 R &nbsp; • &nbsp;
+🤖 Machine Learning &nbsp; • &nbsp;
+🧬 Bioinformatics &nbsp; • &nbsp;
+☁️ Data Engineering
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhutika-patil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhutikappatil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rhutikapatil)
+<p align="center">
+📍 Raleigh, NC &nbsp; | &nbsp;
+🎓 M.S. Bioinformatics — NC State University
+</p>
 
-</div>
+<p align="center">
 
-<br>
+<a href="https://www.linkedin.com/in/rhutika-patil">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-## Impact, by the numbers
+<a href="mailto:rhutikappatil@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
+<a href="https://github.com/Rhutikapatil">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-| 🧬 1M+ | 🧪 90GB | 🔬 10,000+ | ⚙️ 40% |
-|:---:|:---:|:---:|:---:|
-| clinical records modeled | sequencing data processed | single cells analyzed & annotated | less manual preprocessing time |
+</p>
 
-</div>
+---
 
-<br>
+## 👋 A little about me
 
-## What I build
+Some people look at a dataset and see rows, columns, and numbers.
 
-<table>
-<tr>
-<td width="50%">
+**I see questions.**
 
-**🧬 [scRNA-seq PBMC Pipeline](https://github.com/Rhutikapatil/scrna-seq-pbmc-pipeline)**
+What happened?  
+Why did it happen?  
+What patterns are hiding underneath it?  
+Can we predict what happens next?  
+And most importantly — **can someone actually use the answer?**
 
-QC → clustering → cell-type annotation on single-cell RNA-seq data, built with Scanpy/Seurat.
+My journey into data started with complex biological and healthcare
+datasets, where the data is rarely clean and the answer is rarely obvious.
 
-</td>
-<td width="50%">
+That taught me something I bring to every project:
 
-**💊 [FAERS Drug Safety Signals](https://github.com/Rhutikapatil/faers-drug-safety-signals)**
+> **Good data work isn't just about building a model.  
+> It's about turning uncertainty into something people can understand,
+> trust, and act on.**
 
-Disproportionality analysis + predictive modeling on FDA adverse event data, with NLP on narrative fields.
+Today, I work across the data lifecycle — exploring messy datasets,
+building analytical workflows, developing models, validating results,
+visualizing patterns, and making the process reproducible.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+I enjoy problems where **data science, analytics, engineering, and
+domain knowledge meet.**
 
-**☁️ [Cloud ETL Pipeline](https://github.com/Rhutikapatil/cloud-etl-pipeline)**
+---
 
-AWS pipeline with Airflow orchestration, Docker, Terraform-managed infra, and automated tests.
+## 🧭 How I Think About Data
 
-</td>
-<td width="50%">
+Every dataset starts as a story we haven't understood yet.
 
-**📊 [Clinical Population Health Dashboard](https://github.com/Rhutikapatil/clinical-population-health-dashboard)**
-
-Interactive dashboard turning population health data into stakeholder-ready insights.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Toolbox
-
-<div align="center">
-
-`Python` `R` `SQL` `Bash`
-`Seurat` `GATK` `Bioconductor` `RNA-seq` `scRNA-seq`
-`AWS` `Azure` `Docker` `Airflow` `Terraform` `Snowflake` `HPC/SLURM`
-`Power BI` `Tableau` `Alteryx` `ggplot2`
-
-</div>
-
-<br>
-
-## How I approach a problem
-
-Start from the question — biological or business — before reaching for a tool. Validate data quality before trusting any result downstream. Build workflows documented well enough that someone outside my field can run them. Judge success by whether the insight actually gets used, not by model metrics alone.
-
-<br>
-
-<div align="center">
-
-### 📈 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rhutikapatil&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhutikapatil&layout=compact&hide_border=true" width="35%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Let's connect** — [LinkedIn](https://linkedin.com/in/rhutika-patil) · [Email](mailto:rhutikappatil@gmail.com)
-
-</div>
+```text
+              RAW DATA
+                  │
+                  ▼
+        ┌───────────────────┐
+        │   Can we trust    │
+        │     the data?     │
+        └─────────┬─────────┘
+                  │
+                  ▼
+        Cleaning + Validation
+                  │
+                  ▼
+        ┌───────────────────┐
+        │  What patterns    │
+        │  are hiding here? │
+        └─────────┬─────────┘
+                  │
+                  ▼
+       Exploration + Statistics
+                  │
+                  ▼
+        ┌───────────────────┐
+        │  Can we predict   │
+        │  what happens?    │
+        └─────────┬─────────┘
+                  │
+                  ▼
+       Machine Learning + Models
+                  │
+                  ▼
+        ┌───────────────────┐
+        │ Can someone use   │
+        │    the result?    │
+        └─────────┬─────────┘
+                  │
+                  ▼
+     Visualization + Communication
+                  │
+                  ▼
+               DECISION
