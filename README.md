@@ -1,51 +1,8 @@
-<h1 align="center">Hi, I'm Rhutika Patil 👋</h1>
+# Hi, I'm Rhutika Patil 👋
 
-<h3 align="center">
-Data Scientist • Bioinformatics • Analytics
-</h3>
+### Data Scientist • Bioinformatics • Analytics
 
-<p align="center">
-<b>I follow data from raw → meaningful → useful.</b>
-</p>
-
-<p align="center">
-Turning complex biological, healthcare, and business data into
-insights, models, pipelines, and decisions.
-</p>
-
-<p align="center">
-🐍 Python &nbsp; • &nbsp;
-📊 SQL &nbsp; • &nbsp;
-📈 R &nbsp; • &nbsp;
-🤖 Machine Learning &nbsp; • &nbsp;
-🧬 Bioinformatics &nbsp; • &nbsp;
-☁️ Data Engineering
-</p>
-
-<p align="center">
-📍 Raleigh, NC &nbsp; | &nbsp;
-🎓 M.S. Bioinformatics — NC State University
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rhutika-patil">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:rhutikappatil@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Rhutikapatil">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-## 👋 A little about me
+**I follow data from raw → meaningful → useful.**
 
 Some people look at a dataset and see rows, columns, and numbers.
 
@@ -55,68 +12,132 @@ What happened?
 Why did it happen?  
 What patterns are hiding underneath it?  
 Can we predict what happens next?  
-And most importantly — **can someone actually use the answer?**
+And most importantly — can someone actually use the answer?
 
-My journey into data started with complex biological and healthcare
-datasets, where the data is rarely clean and the answer is rarely obvious.
+My background sits at the intersection of **data, biology, healthcare, and technology**.
 
-That taught me something I bring to every project:
-
-> **Good data work isn't just about building a model.  
-> It's about turning uncertainty into something people can understand,
-> trust, and act on.**
-
-Today, I work across the data lifecycle — exploring messy datasets,
-building analytical workflows, developing models, validating results,
-visualizing patterns, and making the process reproducible.
-
-I enjoy problems where **data science, analytics, engineering, and
-domain knowledge meet.**
+I enjoy taking complex, messy datasets and turning them into something
+clearer — whether that means an analysis, a model, a visualization,
+or a reproducible workflow.
 
 ---
 
-## 🧭 How I Think About Data
+# 🚀 Featured Work
 
-Every dataset starts as a story we haven't understood yet.
+## 🧬 DECODE
+### Single-Cell RNA-seq Analysis
 
-```text
-              RAW DATA
-                  │
-                  ▼
-        ┌───────────────────┐
-        │   Can we trust    │
-        │     the data?     │
-        └─────────┬─────────┘
-                  │
-                  ▼
-        Cleaning + Validation
-                  │
-                  ▼
-        ┌───────────────────┐
-        │  What patterns    │
-        │  are hiding here? │
-        └─────────┬─────────┘
-                  │
-                  ▼
-       Exploration + Statistics
-                  │
-                  ▼
-        ┌───────────────────┐
-        │  Can we predict   │
-        │  what happens?    │
-        └─────────┬─────────┘
-                  │
-                  ▼
-       Machine Learning + Models
-                  │
-                  ▼
-        ┌───────────────────┐
-        │ Can someone use   │
-        │    the result?    │
-        └─────────┬─────────┘
-                  │
-                  ▼
-     Visualization + Communication
-                  │
-                  ▼
-               DECISION
+**The question:**  
+What biological patterns are hidden across thousands of individual cells?
+
+Built an end-to-end single-cell analysis workflow covering:
+
+- Quality control
+- Filtering and preprocessing
+- Normalization and integration
+- PCA and UMAP
+- Clustering
+- Cell-type annotation
+- Differential expression
+- Visualization
+
+**Tech:** `R` `Seurat` `SCTransform` `ggplot2`
+
+👉 [Explore Project](YOUR_REAL_REPOSITORY_LINK)
+
+---
+
+# 🧪 What I'm Building Next
+
+Different problems. Different datasets.  
+One goal: **turn information into something useful.**
+
+### 💊 DETECT
+**Drug Safety Analytics**
+
+Exploring how large-scale adverse-event data can be used to identify
+potential safety signals and patterns.
+
+`Python` `SQL` `Pandas` `Machine Learning`
+
+---
+
+### 📊 EXPLAIN
+**Healthcare & Population Analytics**
+
+Building analytics workflows that translate healthcare data into
+clear trends, KPIs, and stakeholder-ready insights.
+
+`Python` `SQL` `Tableau` `Power BI`
+
+---
+
+### ⚙️ BUILD
+**Data Pipeline Engineering**
+
+Exploring how analytical workflows move beyond notebooks into
+reliable, reproducible data pipelines.
+
+`Python` `SQL` `Docker` `Airflow` `AWS`
+
+---
+
+# 🧩 How I Think About Data
+
+### 🔎 FIND
+Explore the data and uncover what isn't obvious.
+
+### 🧠 UNDERSTAND
+Use statistics, context, and domain knowledge to understand why it matters.
+
+### 🤖 PREDICT
+Build models when the problem calls for prediction.
+
+### 🚀 DELIVER
+Turn the result into something reproducible, understandable, and useful.
+
+---
+
+# 🛠 My Toolbox
+
+**Programming**  
+`Python` `R` `SQL` `Bash`
+
+**Data Science**  
+`Pandas` `NumPy` `Scikit-learn` `Statistics` `Machine Learning`
+
+**Bioinformatics**  
+`Seurat` `SCTransform` `DESeq2` `edgeR` `STAR` `HISAT2` `Salmon`
+
+**Visualization**  
+`Tableau` `Power BI` `Matplotlib` `ggplot2`
+
+**Engineering**  
+`Git` `Linux` `Docker` `Airflow` `AWS` `HPC` `SLURM`
+
+---
+
+# 🌱 Currently Exploring
+
+🤖 Applied Machine Learning  
+🧠 Generative AI  
+☁️ Data Engineering  
+🏥 Healthcare Analytics  
+🧬 Computational Biology
+
+---
+
+# 🤝 Let's Connect
+
+📧 [rhutikappatil@gmail.com](mailto:rhutikappatil@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/rhutika-patil)
+
+💻 [GitHub](https://github.com/Rhutikapatil)
+
+---
+
+<p align="center">
+<b>Messy data doesn't bother me.</b><br>
+<i>That's usually where the interesting questions begin.</i>
+</p>
