@@ -179,7 +179,7 @@ Turn technical results into outputs that researchers, clinicians, and stakeholde
 
 ---
 
-# 🌱 Areas I'm Exploring
+# 🎯 Areas of Focus
 
 🧬 Computational Biology  
 🏥 Healthcare & Clinical Analytics  
