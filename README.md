@@ -1,129 +1,198 @@
 # Hi, I'm Rhutika Patil 👋
 
-### Data Scientist • Bioinformatics • Analytics
+### Bioinformatics • Clinical Programming • Data Science • Healthcare Analytics
 
-**I follow data from raw → meaningful → useful.**
+I work at the intersection of **biology, healthcare, and data**.
 
-Some people look at a dataset and see rows, columns, and numbers.
+My projects span **single-cell RNA-seq, clinical statistical programming, pharmacovigilance, healthcare analytics, and data engineering**, with a focus on building reproducible workflows that turn complex data into clear, useful results.
 
-**I see questions.**
-
-What happened?  
-Why did it happen?  
-What patterns are hiding underneath it?  
-Can we predict what happens next?  
-And most importantly — can someone actually use the answer?
-
-My background sits at the intersection of **data, biology, healthcare, and technology**.
-
-I enjoy taking complex, messy datasets and turning them into something
-clearer — whether that means an analysis, a model, a visualization,
-or a reproducible workflow.
+**Core tools:** `R` `Python` `SQL` `Docker` `Airflow` `Power BI` `Tableau`
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
-## 🧬 DECODE
-### Single-Cell RNA-seq Analysis
+## 🧬 scRNA-seq PBMC Analysis Pipeline
 
-**The question:**  
-What biological patterns are hidden across thousands of individual cells?
+A reproducible single-cell RNA-seq workflow built with **Python, Scanpy, Snakemake, Leiden clustering, UMAP, and Docker**.
 
-Built an end-to-end single-cell analysis workflow covering:
+**Highlights**
+- Single-cell QC and filtering
+- Highly variable gene selection
+- PCA and neighborhood graph construction
+- Leiden clustering
+- UMAP visualization
+- Marker-gene identification
+- Automated cell-type annotation
+- Reproducible Snakemake workflow
 
-- Quality control
-- Filtering and preprocessing
-- Normalization and integration
-- PCA and UMAP
-- Clustering
-- Cell-type annotation
-- Differential expression
-- Visualization
-
-**Tech:** `R` `Seurat` `SCTransform` `ggplot2`
-
-👉 [Explore Project](YOUR_REAL_REPOSITORY_LINK)
+👉 [View Repository](https://github.com/Rhutikapatil/scrna-seq-pbmc-pipeline)
 
 ---
 
-# 🧪 What I'm Building Next
+## 💊 FAERS Drug Safety Signal Detection
 
-Different problems. Different datasets.  
-One goal: **turn information into something useful.**
+A pharmacovigilance pipeline combining **disproportionality analysis, machine learning, and NLP** for adverse-event analysis.
 
-### 💊 DETECT
-**Drug Safety Analytics**
+**Highlights**
+- PRR and Reporting Odds Ratio analysis
+- Chi-square signal detection
+- Structured-data seriousness prediction
+- Gradient-boosted machine learning
+- TF-IDF + logistic regression NLP model
+- ROC-AUC and PR-AUC evaluation
+- openFDA API integration
+- Dockerized workflow
 
-Exploring how large-scale adverse-event data can be used to identify
-potential safety signals and patterns.
-
-`Python` `SQL` `Pandas` `Machine Learning`
-
----
-
-### 📊 EXPLAIN
-**Healthcare & Population Analytics**
-
-Building analytics workflows that translate healthcare data into
-clear trends, KPIs, and stakeholder-ready insights.
-
-`Python` `SQL` `Tableau` `Power BI`
+👉 [View Repository](https://github.com/Rhutikapatil/faers-drug-safety-signals)
 
 ---
 
-### ⚙️ BUILD
-**Data Pipeline Engineering**
+## ⚙️ Cloud ETL Pipeline — Public Health Surveillance
 
-Exploring how analytical workflows move beyond notebooks into
-reliable, reproducible data pipelines.
+An end-to-end data engineering pipeline using **Python, Apache Airflow, PostgreSQL, Docker, and Terraform**.
 
-`Python` `SQL` `Docker` `Airflow` `AWS`
+**Highlights**
+- Live public-health data extraction
+- Data-quality validation
+- Daily-to-weekly transformation
+- PostgreSQL warehouse loading
+- Idempotent upserts
+- Post-load reconciliation
+- Unit and regression testing
+- AWS infrastructure design
 
----
-
-# 🧩 How I Think About Data
-
-### 🔎 FIND
-Explore the data and uncover what isn't obvious.
-
-### 🧠 UNDERSTAND
-Use statistics, context, and domain knowledge to understand why it matters.
-
-### 🤖 PREDICT
-Build models when the problem calls for prediction.
-
-### 🚀 DELIVER
-Turn the result into something reproducible, understandable, and useful.
+👉 [View Repository](https://github.com/Rhutikapatil/cloud-etl-pipeline)
 
 ---
 
-# 🛠 My Toolbox
+## 📊 Clinical Population Health Dashboard
 
-**Programming**  
-`Python` `R` `SQL` `Bash`
+A healthcare analytics project focused on **utilization, cost, risk stratification, and preventive care gaps**.
 
-**Data Science**  
-`Pandas` `NumPy` `Scikit-learn` `Statistics` `Machine Learning`
+**Highlights**
+- Synthetic population-health data generation
+- Star-schema-style data modeling
+- PMPM cost analysis
+- Risk stratification
+- Preventive care-gap analysis
+- Interactive HTML dashboard
+- Power BI DAX build guide
+- Tableau calculated-field workflow
 
-**Bioinformatics**  
-`Seurat` `SCTransform` `DESeq2` `edgeR` `STAR` `HISAT2` `Salmon`
-
-**Visualization**  
-`Tableau` `Power BI` `Matplotlib` `ggplot2`
-
-**Engineering**  
-`Git` `Linux` `Docker` `Airflow` `AWS` `HPC` `SLURM`
+👉 [View Repository](https://github.com/Rhutikapatil/clinical-population-health-dashboard)
 
 ---
 
-# 🌱 Currently Exploring
+# 🧪 Clinical Statistical Programming
 
-🤖 Applied Machine Learning  
-🧠 Generative AI  
-☁️ Data Engineering  
-🏥 Healthcare Analytics  
-🧬 Computational Biology
+## Clinical TLF Programming in R
+
+Clinical Tables, Listings, and Figures programming demonstrating demographic, adverse-event, laboratory, survival, response, and longitudinal analyses.
+
+**Methods include**
+- Kaplan-Meier estimation
+- Cox proportional hazards modeling
+- Adverse-event summaries
+- Laboratory shift analysis
+- Response-rate confidence intervals
+- Longitudinal summaries
+- Programmatic QC
+
+👉 [View Repository](https://github.com/Rhutikapatil/clinical-tlf-programming-r)
+
+---
+
+## Clinical ADaM Programming & Validation in R
+
+Synthetic clinical programming workflow demonstrating creation and validation of ADaM-style analysis datasets.
+
+**Datasets**
+
+`ADSL` · `ADAE` · `ADLBSI` · `ADTTE` · `ADEX`
+
+**Skills**
+
+`R` · `ADaM concepts` · `Clinical derivations` · `XPT export` · `Programmatic validation`
+
+👉 [View Repository](https://github.com/Rhutikapatil/clinical-adam-r-validation)
+
+---
+
+## Clinical SDTM-Style Programming & Validation in R
+
+Reproducible R workflow demonstrating SDTM-style clinical domain programming using synthetic data.
+
+**Domains**
+
+`DM` · `EX` · `MH` · `DS` · `VS`
+
+**Skills**
+
+`R` · `SDTM concepts` · `Clinical data programming` · `ISO dates` · `Study-day derivations` · `XPT export` · `QC validation`
+
+👉 [View Repository](https://github.com/Rhutikapatil/clinical-sdtm-r-workflow)
+
+---
+
+# 🛠 Technical Skills
+
+### Programming & Data
+`Python` `R` `SQL` `Bash` `Linux`
+
+### Bioinformatics
+`scRNA-seq` `RNA-seq` `Seurat` `Scanpy` `SCTransform` `DESeq2` `edgeR` `STAR` `HISAT2` `Salmon`
+
+### Clinical Programming
+`SDTM` `ADaM` `TLF Programming` `Clinical Data QC` `Survival Analysis` `XPT`
+
+### Data Science & Machine Learning
+`Pandas` `NumPy` `Scikit-learn` `Statistics` `Machine Learning` `NLP`
+
+### Visualization & Analytics
+`Power BI` `Tableau` `Matplotlib` `ggplot2`
+
+### Data Engineering & Infrastructure
+`Apache Airflow` `PostgreSQL` `Docker` `Terraform` `AWS` `Snakemake` `Git`
+
+### Computing
+`HPC` `SLURM` `Linux`
+
+---
+
+# 🧩 How I Approach Data
+
+### 🔎 Explore
+Understand the structure, quality, and limitations of the data.
+
+### 🧠 Analyze
+Use statistics, domain knowledge, and computational methods to uncover meaningful patterns.
+
+### ⚙️ Build
+Create reproducible analytical workflows, models, and data pipelines.
+
+### ✅ Validate
+Use programmatic checks and reproducible methods to verify results.
+
+### 🚀 Communicate
+Turn technical results into outputs that researchers, clinicians, and stakeholders can understand and use.
+
+---
+
+# 🌱 Areas I'm Exploring
+
+🧬 Computational Biology  
+🏥 Healthcare & Clinical Analytics  
+📊 Clinical Statistical Programming  
+🤖 Machine Learning & Generative AI  
+☁️ Data Engineering & Cloud Analytics  
+
+---
+
+# 🎓 Education
+
+**M.S. Bioinformatics**  
+North Carolina State University
 
 ---
 
@@ -137,7 +206,6 @@ Turn the result into something reproducible, understandable, and useful.
 
 ---
 
-<p align="center">
-<b>Messy data doesn't bother me.</b><br>
-<i>That's usually where the interesting questions begin.</i>
-</p>
+### Thanks for visiting my profile! 👋
+
+I'm interested in opportunities across **bioinformatics, clinical programming, data science, healthcare analytics, and data engineering**.
